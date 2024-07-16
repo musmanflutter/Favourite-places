@@ -1,16 +1,8 @@
-# favourite_places
+# Favorite Places App
 
-A new Flutter project.
+A Flutter-based application that allows users to add and view their favorite places with a title and an image. The app uses Firebase for backend services.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Add Favorite Places**: Users can add a new favorite place by providing a title and an image.
+- **View Favorite Places**: The main page displays a list of all favorite places with their titles and images.
